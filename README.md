@@ -1,2 +1,3 @@
 # fanjin
 project
+git remote set-url origin https://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@github.com/huifeidelang/fanjin.git
